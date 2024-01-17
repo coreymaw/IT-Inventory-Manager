@@ -1,0 +1,13 @@
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/bin/Debug/net8.0/InventoryManager.Domain.deps.json
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/bin/Debug/net8.0/InventoryManager.Domain.dll
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/bin/Debug/net8.0/InventoryManager.Domain.pdb
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.csproj.AssemblyReference.cache
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.AssemblyInfoInputs.cache
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.AssemblyInfo.cs
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.csproj.CoreCompileInputs.cache
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.sourcelink.json
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.dll
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/refint/InventoryManager.Domain.dll
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/InventoryManager.Domain.pdb
+/home/corey/Documents/devs/InventoryManager/IT-Inventory-Manager/InventoryManager.Domain/obj/Debug/net8.0/ref/InventoryManager.Domain.dll
