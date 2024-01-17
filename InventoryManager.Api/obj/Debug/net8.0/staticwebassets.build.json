@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/KgQ9luZ8oRjnaYNyozJdzSbw+nO4zh27ZpbDdE/Goc=",
+  "Source": "InventoryManager.Api",
+  "BasePath": "_content/InventoryManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
