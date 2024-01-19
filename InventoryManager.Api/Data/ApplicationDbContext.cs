@@ -15,9 +15,9 @@ namespace InventoryManager.Api.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> opt) : base(opt)
         {
         }
-        DbSet<Item> Items {get;set;}
-        DbSet<Position> Positions {get;set;}
-        DbSet<Department> Departments {get;set;}
-        DbSet<Employee> Employees {get;set;}
+        public  DbSet<Item> Items {get;set;}
+        public  DbSet<Position> Positions {get;set;}
+        public DbSet<Department> Departments {get;set;}
+        public DbSet<Employee> Employees {get;set;}
     }
 }
